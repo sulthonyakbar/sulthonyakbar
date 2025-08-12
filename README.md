@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sulthony Akbar Rizky Pambudi</h1>
-<h3 align="center">Final Year Software Engineering Student at Telkom University Surabaya</h3>
+<h3 align="center">Software Engineering Graduate from Telkom University Surabaya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulthonyakbar&label=Profile%20views&color=0e75b6&style=flat" alt="sulthonyakbar" /> </p>
 
-- 👨‍💻 All of my projects are available at [sulthonyakbar.netlify.app](https://sulthonyakbar.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Personal Website](https://sulthonyakbar.netlify.app/)
 
 - 📫 How to reach me **sulthonyakbar18@gmail.com**
 
