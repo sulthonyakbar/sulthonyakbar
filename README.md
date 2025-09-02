@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulthonyakbar&label=Profile%20views&color=0e75b6&style=flat" alt="sulthonyakbar" /> </p>
 
-- 👨‍💻 All of my projects are available at [My Personal Website](https://sulthonyakbar.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Personal Website](https://sa-tech.biz.id/)
 
 - 📫 How to reach me **sulthonyakbar18@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/11tSGhbbuaWEQN9KJVTL79sWwOfDgUSnZ/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1SSCbHWddopuoC8JUc9FjaWWCBsAPQu2v/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
